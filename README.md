@@ -1,2 +1,2 @@
-# network_from_scratch
-A deep-learning neural network made using numpy.
+# Neural Network from Scratch
+I created a deep-learning neural network model using numpy. My purpose behind this was to develop a mathematics-level understanding of how this AI model works. I used jupyter notebooks as it allows for markdown comments, so I could explain in English (for my benefit) the reasoning behind each step. I learned to implement the forward and backward propagation algorithms, requiring an understanding of matrix math, multi-variable calculus, and numerical methods.
